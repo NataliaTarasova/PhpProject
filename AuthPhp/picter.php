@@ -1,0 +1,1 @@
+<div class="container col-lg-8"><img src="https://picsum.photos/id/237/400/500/" class="img-thumbnail col-lg-5 img-left" alt="..."></div>
